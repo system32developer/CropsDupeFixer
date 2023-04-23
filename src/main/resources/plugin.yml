@@ -1,0 +1,5 @@
+name: CropsDupeFix
+version: '${project.version}'
+main: com.system32.cropsdupefix.CropsDupeFix
+api-version: 1.19
+authors: [ System32 ]

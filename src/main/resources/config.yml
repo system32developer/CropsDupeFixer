@@ -1,0 +1,9 @@
+Messages:
+  Load: 'Plugin Loaded'
+  Unload: 'Plugin Unloaded'
+WhenTryingToDupe:
+  Command: "ban {PLAYER} &cMaximum warnings received, if you think that this is a mistake, please contact the staff team. &a{X}x, {Y}y, {Z}z"
+  Message: "{PREFIX} We detected a possible bug abuse, please avoid doing what are you doing. &c{COUNTDOWN}"
+  MaxWarnings: 3
+  StrikeLightning: true
+
